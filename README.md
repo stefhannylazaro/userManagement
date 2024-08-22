@@ -1,7 +1,7 @@
 # UserManagement
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.4.
-Conexion con una API de prueba para mostrar un listado de usuarios, tambien realiza la busqueda por nombre o apellido.
+Connect to a test API to display a list of users, also search by first or last name.
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
